@@ -4,6 +4,5 @@
 # Crie um programa que receba o número de avaliações de cada curso e exiba qual teve mais.
 # Caso as quantidades sejam iguais, exiba uma mensagem dizendo que houve 
 
-nome = "Ian Maecos"
-idade = 16
-altura = 1.75
+curso01 = int(input("Digite quantas avaliações teve o curso01"))
+curso02 = int(input("Digite quantas avaliações teve o curso02"))
