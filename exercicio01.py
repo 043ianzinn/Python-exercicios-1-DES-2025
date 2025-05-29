@@ -5,4 +5,5 @@
 # Caso as quantidades sejam iguais, exiba uma mensagem dizendo que houve 
 
 nome = "Ian Maecos"
-idade = 
+idade = 16
+altura = 1.75
